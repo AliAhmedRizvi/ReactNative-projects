@@ -5,5 +5,4 @@ This repository contains multiple TypeScript-based React Native projects for lea
 ## Projects
 
 1. **FinalTry** – Integration of Native Modules with TS
-2. **CounterApp** – Basic state management
-3. **NotesApp** – AsyncStorage and list rendering
+2. **CalculatorApp** – Basic Calculator developed using TS with React Native Cli
